@@ -38,7 +38,7 @@ Cihaz kamerasından aldığı verileri drekt olarak işleyip çıktı sunmakta v
 1. Başlıca olarak sistemin çalışması için gereksinimleriini  sağlanması gerekmektedir, bunlar kurulumunun  yapılması gerekilen araçlardır; `Numpy`,
 `Matplotlib`, `Keras`, `Open CV`, `OS`, `Pandas`, `Random`, `Random`, `TensorFlow`.
 2. Ardından Git dosyamızda da ulaşabileceğimiz Kaynak kodlarını kullanarak eksik olan araçlarınızı takip edip gereksinimlerinizi tamamlaya bilir ve 
-projeyi çalıştırabilirsiniz. [See here](https://github.com/yusufaras104/Open_CV/main.py)
+projeyi çalıştırabilirsiniz. [See here](https://github.com/yusufaras104/Open_CV/blob/main/Traffic%20Signs%20Classification%20Using%20Convolution%20Neural%20Networks%20CNN%20%7C%20OPENCV%20Python/main.py)
 3. Projenin çalıştırılmasının ardından cihazınız ilk önce veri kümesin de bulunan elemanları tanıyıp analiz etmesi gerekmektedir.
 4. Tarama işleminin ardından yapay zeka araçlarımız bu verileri base de depolar ve istatistiksel olarak tanımlarını yapar.
 5. taramalar ve öğrenimler yapıldık tan sonra görüntü işlememizi sağlayabileceğimiz aracımız olan Open CV devreye girer ve cihazın kamerasından aldığı 
